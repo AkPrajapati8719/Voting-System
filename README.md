@@ -1,3 +1,6 @@
+contract address : 0x3eae11d1203fe3562d28090ffe9d689aebc3910cf211e38bf9d4b21fa5ed929c
+Screenshot : ![image](https://github.com/user-attachments/assets/36c81af5-484e-420c-87e2-b2c08665ec1f)
+
 # Voting-System
 
 # VotingPlatform Smart Contract
